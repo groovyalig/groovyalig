@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @groovyalig
+- 👀 I’m interested in ... web development, visual arts, & music production.
+- 🌱 I’m currently learning ... how to work with Python (again)
+- 📫 How to reach me ... (email:) alissahardison@gmail.com
